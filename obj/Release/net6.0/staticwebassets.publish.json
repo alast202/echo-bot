@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "KB4blZq3aFE+GY3L9/PNT2DJUCPXCWptT79iiEPIJ0s=",
+  "Source": "echo-azure",
+  "BasePath": "_content/echo-azure",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "echo-azure\\wwwroot",
+      "Source": "echo-azure",
+      "ContentRoot": "C:\\Users\\annel\\OneDrive\\Desktop\\echo-azure\\wwwroot\\",
+      "BasePath": "_content/echo-azure",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\annel\\OneDrive\\Desktop\\echo-azure\\wwwroot\\default.htm",
+      "SourceId": "echo-azure",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\annel\\OneDrive\\Desktop\\echo-azure\\wwwroot\\",
+      "BasePath": "_content/echo-azure",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
