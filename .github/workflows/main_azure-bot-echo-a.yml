@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'azure-bot-echo-a'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B02F957ABBC84B0697A41CE7991E216B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_57CC9B00A1914DA394FBD027CEAE1D22 }}
           package: .
